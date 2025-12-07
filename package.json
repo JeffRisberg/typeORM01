@@ -1,5 +1,5 @@
 {
-  "name": "typeorm01",
+  "name": "typeORM01",
   "version": "1.0.0",
   "description": "NestJS + TypeORM CRUD example for expense records",
   "scripts": {
